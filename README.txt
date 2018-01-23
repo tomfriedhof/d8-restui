@@ -1,4 +1,4 @@
-REST UI
+GCR REST UI documentation
 =======
 
 This module provides a user interface to manage REST resources.
